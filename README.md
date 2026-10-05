@@ -87,3 +87,12 @@ The suite covers cache hits, key normalization, TTL expiry, LRU eviction, intern
 ## Tech stack
 
 Python, FastAPI, Pydantic, PostgreSQL (PL/pgSQL, full-text search, GIN indexes), pytest.
+
+
+## License
+
+Copyright (c) 2026 [Aapka Pura Naam]. All Rights Reserved.
+
+This project is proprietary and provided strictly for educational and portfolio demonstration purposes. You may view and read the code, but you may not use, copy, modify, or distribute it without explicit written permission. 
+
+Please see the [LICENSE](LICENSE) file for the full legal disclaimer and restriction details.
